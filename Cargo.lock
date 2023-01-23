@@ -566,6 +566,7 @@ dependencies = [
 name = "rust-decryptor"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "base64",
  "gtk",
  "openssl",
